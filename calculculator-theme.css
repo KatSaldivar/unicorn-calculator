@@ -1,0 +1,51 @@
+body {
+  margin-top: 70px;
+  margin-bottom: 20px;
+  background-image: url("http://weknowyourdreams.com/images/unicorn/unicorn-01.jpg");
+}
+#outer{
+  height: 480px;
+  width: 275px;
+  background-color: ;
+  margin-left: auto ;
+  margin-right: auto ;
+  background-color: hotpink;
+  padding-top: 20px;
+  border-radius: 6px;
+}
+#row{
+ background-color: hotpink;
+ width: 265px;
+ height: 75px;
+ padding-left: 5px;
+ pading-right: 5px;
+}
+#entrybox{
+  margin-bottom: 20px;
+  width: 85%;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+  background-color: lightblue;
+  color: #984ee8;
+  font-size: 30px;
+}
+button{
+  height: 60px;
+  width: 60px;
+  background-color: turquoise;
+  color: green;
+  border:1px solid black;
+  display:inline-block;
+  border-radius: 50px;
+}
+#equals{
+  height: 60px;
+  width: 255px;
+}
+button:hover {
+    opacity: 0.7;
+    cursor:pointer;
+
+}
